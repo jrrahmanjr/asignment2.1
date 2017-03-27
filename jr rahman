@@ -1,0 +1,15 @@
+package assignment2;
+
+public class assignment2 {
+
+	public static void main(String[] args) {
+		
+		 int i = 0;
+	        if(System.out.printf("mohamed ") == null) {}
+	        for(i = 1; i < 2; System.out.println("rahman j"))
+	        {
+	            i++;
+	     	}
+	}
+
+}
